@@ -1,0 +1,37 @@
+[
+  {
+    "id_barang": 1,
+    "nama_barang": "Laptop Asus",
+    "harga": 4500000,
+    "stok": 30,
+    "Keterangan": "Kondisi Baik"
+  },
+  {
+    "id_barang": 2,
+    "nama_barang": "Laptop Acer",
+    "harga": 6500000,
+    "stok": 10,
+    "Keterangan": "Baru Datang"
+  },
+  {
+    "id_barang": 3,
+    "nama_barang": "Komputer LG",
+    "harga": 15000000,
+    "stok": 13,
+    "Keterangan": "Keluaran Lama"
+  },
+  {
+    "id_barang": 4,
+    "nama_barang": "Komputer HP",
+    "harga": 20000000,
+    "stok": 10,
+    "Keterangan": "Baru Datang"
+  },
+  {
+    "id_barang": 5,
+    "nama_barang": "TV LG",
+    "harga": 20000000,
+    "stok": 3,
+    "Keterangan": "Menipis"
+  }
+]
